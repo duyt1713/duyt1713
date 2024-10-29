@@ -1,7 +1,12 @@
-## Hi there 👋 Terve 👋 Xin chào 👋
+## Hi There 👋 Xin Chào 👋 Terve 👋
 
-Welcome to my readme page! I'm just getting into the wonderful world of GitHub so this page is still on its infancy phase. It will be more polished as time goes on so check back frequently 😉
+Welcome to my readme page! I'm just getting into the wonderful world of GitHub so this page is still on its infancy phase. It will be more polished as time goes on so feel free to come back and stalk me frequently 😉
 
+## About Me Shortly For Now
+
+- 🌱 Student at Hive Helsinki (42 Network)
+- 👷 Software engineer in the making
+- More to be updated soon™
 <!--
 **duyt1713/duyt1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
