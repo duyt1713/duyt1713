@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Terve 👋 Xin chào 👋
+
+Welcome to my readme page! I'm just getting into the wonderful world of GitHub so this page is still on its infancy phase. It will be more polished as time goes on so check back frequently 😉
 
 <!--
 **duyt1713/duyt1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
