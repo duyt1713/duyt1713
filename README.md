@@ -11,7 +11,7 @@ Welcome to my README page! I’m just getting into the wonderful world of GitHub
 ## 42 Project Status
 
 ### Completed
-* [Libft](https://github.com/duyt1713/Libft) (125/100)
+1. * [Libft](https://github.com/duyt1713/Libft) (125/100)
 
 ### Ongoing
-* [ft_printf](https://github.com/duyt1713/ft_printf)
+2. * [ft_printf](https://github.com/duyt1713/ft_printf)
