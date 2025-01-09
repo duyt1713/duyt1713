@@ -13,4 +13,4 @@ Welcome to my README page! I’m just getting into the wonderful world of GitHub
 1. * [Libft](https://github.com/duyt1713/Libft) (125/100)
 2. * [ft_printf](https://github.com/duyt1713/ft_printf) (100/100)
 3. * Born2beRoot (100/100)
-4. * [get_next_line](https://github.com/duyt1713/get_next_line) (100/100)
+4. * [get_next_line](https://github.com/duyt1713/get_next_line) (125/100)
