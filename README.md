@@ -14,3 +14,4 @@ Welcome to my README page! I’m just getting into the wonderful world of GitHub
 2. * [ft_printf](https://github.com/duyt1713/ft_printf) (100/100)
 3. * Born2beRoot (100/100)
 4. * [get_next_line](https://github.com/duyt1713/get_next_line) (125/100)
+5. * [push_swap](https://github.com/duyt1713/push_swap) (ongoing)
